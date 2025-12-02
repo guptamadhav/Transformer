@@ -23,6 +23,5 @@ transformer.py   # Entire Transformer implementation
 ## 📘 References
 
 1. [https://peterbloem.nl/blog/transformers](https://peterbloem.nl/blog/transformers)
-2. [https://www.youtube.com/watch?v=U0s0f995w14](https://www.youtube.com/watch?v=U0s0f995w14)
-
+   
 ---
